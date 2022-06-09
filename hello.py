@@ -2,7 +2,7 @@
 # Another comment.
 # Another test.
 print("hello world")
-print("This is Amrendra")
+print("This is Amrendra.")
 print("Fdrom BMC Software Singapore")
 print("Barossa Garden")
 print("ABC")
